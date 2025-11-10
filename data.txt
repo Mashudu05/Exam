@@ -1,0 +1,4 @@
+Total Sales: 2200
+Average Sales: 366.6666666666667
+Products Above Sales Limit: 2
+Products Below Sales Limit: 4
